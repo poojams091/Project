@@ -1,0 +1,12 @@
+com/cg/oam/service/IMedicineService.java
+ com.cg.oam.service.IMedicineService
+com/cg/oam/repository/MedicineRepositoryImpl.java
+ com.cg.oam.repository.MedicineRepositoryImpl
+com/cg/oam/service/MedicineServiceImpl.java
+ com.cg.oam.service.MedicineServiceImpl
+com/cg/oam/entities/Medicine.java
+ com.cg.oam.entities.Medicine
+com/cg/oam/repository/IMedicineRepository.java
+ com.cg.oam.repository.IMedicineRepository
+OnlineAyurvedaMedicine/Library.java
+ OnlineAyurvedaMedicine.Library
